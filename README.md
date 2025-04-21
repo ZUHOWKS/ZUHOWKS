@@ -3,13 +3,12 @@
 # 👋 Hi there !
 Hello, I'm **Joris**, currently a DevOps student at Polytech Montpellier. I'm passionate about automated systems, cutting-edge technologies, and building robust, scalable infrastructure to streamline development and deployment processes.
 
-I thrive on projects where **quality**, **automation**, and **performance** meet. My core motivation lies in crafting elegant tool experiences and automating repetitive tasks — because engineers should focus on **innovation**, not boilerplate.
+I thrive on projects where quality, automation, and performance meet. My core motivation lies in crafting elegant tool experiences and automating repetitive tasks — because engineers should focus on innovation, not boilerplate.
 
 Currently:
 - ⚙️ Working on internal tooling and infrastructure automation at **Hardis Group**
-- 🛠 Designing and maintaining CI/CD pipelines with **GitHub Actions**, **Docker**, and container orchestration
+- 🛠 Designing and maintaining CI/CD pipelines with GitHub Actions, **Docker**, and container orchestration
 - 📦 Developing full-stack solutions with **Rust**, **TypeScript**, and **Dart**
-- 📚 Continuously improving my technical writing and communication — both in **French** and **English**
 
 ## What languages do I use ?
 I mainly use **Rust**, **TypeScript**, and **Dart**, each contributing to my ability to build safe, performant, and maintainable systems.
@@ -29,8 +28,6 @@ From dev to deployment, here's my ecosystem:
 - **Frontend**: VueJS, React, Flutter  
 - **DevOps & CI/CD**: GitHub Actions, Docker, Kubernetes  
 - **Cloud & Infra**: Azure, PostgreSQL, Redis, Git
-
-I specialize in building **automated workflows**, setting up **testable environments**, and delivering **production-ready containers** — all while ensuring maintainability and performance.
 
 ## Contact me
 Want to talk DevOps, Rust, or just share cool tech stuff? Reach out!
