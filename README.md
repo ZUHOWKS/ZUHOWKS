@@ -40,8 +40,6 @@ I mainly work with **Rust**, **TypeScript**, and **Dart**, enabling me to create
 Want to talk DevOps, automation, or backend engineering?  
 Feel free to reach out!
 
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/joris-vilardell-76050427b#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/joris-vilardell-76050427b#gh-dark-mode-only)
+[LinkedIn](https://www.linkedin.com/in/joris-vilardell-76050427b)
 &nbsp;&nbsp;
-[![Mail](./img/mail-light.svg)](mailto:joris.vilardell@outlook.com#gh-light-mode-only)
-[![Mail](./img/mail-dark.svg)](mailto:joris.vilardell@outlook.com#gh-dark-mode-only)
+[joris.vilardell@outlook.com](mailto:joris.vilardell@outlook.com)
