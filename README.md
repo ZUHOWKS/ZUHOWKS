@@ -1,36 +1,44 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-# 👋 Hi there !
-Hello, I'm **Joris**, currently a DevOps student at Polytech Montpellier. I'm passionate about automated systems, cutting-edge technologies, and building robust, scalable infrastructure to streamline development and deployment processes.
+# 👋 Hi there!
 
-I thrive on projects where quality, automation, and performance meet. My core motivation lies in crafting elegant tool experiences and automating repetitive tasks — because engineers should focus on innovation, not boilerplate.
+Hello, I'm **Joris**, an engineering student at Polytech Montpellier, passionate about automation, cloud-native systems, and resilient infrastructure.
 
-Currently:
-- ⚙️ Working on internal tooling and infrastructure automation at **Hardis Group**
-- 🛠 Designing and maintaining CI/CD pipelines with GitHub Actions, **Docker**, and container orchestration
-- 📦 Developing full-stack solutions with **Rust**, **TypeScript**, and **Dart**
+I'm committed to delivering reliable, maintainable, and production-ready services, combining technical rigour, a strong sense of quality, and a solid understanding of business needs.
 
-## What languages do I use ?
-I mainly use **Rust**, **TypeScript**, and **Dart**, each contributing to my ability to build safe, performant, and maintainable systems.
+My ambition: keep learning, experimenting, and contributing to projects where automation, scalability, and operational simplicity are top priorities.
 
-- **TypeScript** is my foundation for building expressive web apps and APIs. I especially enjoy working with **AdonisJS**, which brings strong conventions and developer-friendly tooling.
-- **Rust** is my weapon of choice for systems programming, microservices, and automation tools where memory safety, performance, and reliability are non-negotiable.
-- **Dart** and **Flutter** allow me to develop polished mobile interfaces with strong state management and fluid UX, from a single codebase.
+---
+
+## Currently
+
+- ⚙️ Automating internal tooling and infrastructure at **Hardis Group**
+- 🛠 Building CI/CD pipelines with **GitHub Actions**, **Docker**, and cloud-based container platforms
+- 📦 Developing backends and full-stack systems using **Rust**, **TypeScript**, and **Dart**
+
+## Languages I use
+
+I mainly work with **Rust**, **TypeScript**, and **Dart**, enabling me to create robust, efficient, and maintainable software across platforms.
+
+- **TypeScript**: For expressive web apps and API development — I especially enjoy working with **AdonisJS** for its conventions and ergonomics.
+- **Rust**: My go-to for performant backend services, automation, and CLI tools where safety and reliability matter.
+- **Dart**/**Flutter**: For building polished, cross-platform mobile apps with fast iteration and clean architecture.
 
 ![icons languages](https://skillicons.dev/icons?i=rust,ts,dart)
 
-## What technologies and tools do I use?
-From dev to deployment, here's my ecosystem:
+## Tools & Technologies
 
-![icons technologies](https://skillicons.dev/icons?i=adonis,react,vue,nodejs,flutter,postgres,redis,docker,kubernetes,git,githubactions,azure&perline=8)
+![icons technologies](https://skillicons.dev/icons?i=adonis,react,vue,nodejs,flutter,postgres,mysql,redis,mongodb,docker,kubernetes,git,github,gitlab,azure&perline=8)
 
-- **Backend**: AdonisJS, Rust, Node.js  
+- **Backend**: AdonisJS, Rust, Node.js 
 - **Frontend**: VueJS, React, Flutter  
 - **DevOps & CI/CD**: GitHub Actions, Docker, Kubernetes  
-- **Cloud & Infra**: Azure, PostgreSQL, Redis, Git
+- **Cloud & Infrastructure**: Azure, PostgreSQL, MySQL, Redis, MongoDB
 
-## Contact me
-Want to talk DevOps, Rust, or just share cool tech stuff? Reach out!
+## Contact
+
+Want to talk DevOps, automation, or backend engineering?  
+Feel free to reach out!
 
 [![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/joris-vilardell-76050427b#gh-light-mode-only)
 [![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/joris-vilardell-76050427b#gh-dark-mode-only)
